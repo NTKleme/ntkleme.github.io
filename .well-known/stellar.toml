@@ -3,5 +3,5 @@ FEDERATION_SERVER=""
 [[CURRENCIES]]
 code="AIRLIE"
 issuer="GDOW56GS47XLRDMJ4KPPAMRU6IZ57BIG5M26XMXIKFC7VY7D6TYBWSDR"
-image="https://ntkleme.github.io/airlie-token-assets/airlie.png"
+image="https://ntkleme.github.io/airlie.png"
 desc="Airlie Reef Token – community-driven conservation asset supporting reef protection and community rewards."
